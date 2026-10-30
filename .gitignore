@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+chest_xray.db
+uploads/
+reports/
+.venv/
+venv/
